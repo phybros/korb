@@ -34,5 +34,5 @@ jobs:
     - uses: actions/upload-artifact@v2
       with:
         name: korb
-        path: bin/korb
+        path: korb
   
